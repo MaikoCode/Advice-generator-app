@@ -38,6 +38,6 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ## My solution
 
-- You can see my solution here: 
+- You can see my solution here: https://maikocode.github.io/Advice-generator-app/
 
 
