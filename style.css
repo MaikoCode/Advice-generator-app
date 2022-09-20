@@ -63,6 +63,7 @@ body{
     content: url(./images/pattern-divider-mobile.svg);
     padding: 1rem;
     overflow: hidden;
+    white-space: nowrap;
   }
 
 .advice{
